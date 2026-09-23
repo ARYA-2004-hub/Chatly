@@ -1,4 +1,4 @@
-# Real-Time Chat Application 💬
+# Chatly
 
 A real-time chat application built using HTML, CSS, JavaScript, Node.js, Express.js, and Socket.IO. This application allows users to exchange messages instantly through a web browser.
 
